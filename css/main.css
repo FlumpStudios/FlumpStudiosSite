@@ -3444,6 +3444,22 @@ html.no-csstransitions .home-content__main {
   height: 80px;   
 }
 
+#ruyn_hd > div > div > div > div{
+  width:50%;
+
+}
+
+#ruyn_hd > div > div > div > div > div{
+ 
+  padding:20px;
+}
+
+#ruyn_hd > div > div > div > div > div > div.item-folio__thumb > a > img
+{
+  box-shadow: 5px 5px 5px grey;
+
+}
+
 #horizon_shift81 > div > div > div > div{
   width:50%;
 
