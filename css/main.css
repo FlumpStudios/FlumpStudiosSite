@@ -1786,12 +1786,12 @@ input::-moz-focus-inner {
   background-color: #cc147f;
   border-radius: 50%;
   position: absolute;
-  top: 3rem;
+  top: 1.9rem;
   left: 2rem;
 }
 .home-sidelinks a {
   display: block;
-  padding: 2.1rem 15rem 2.1rem 4rem;
+  padding: 1rem 15rem 1rem 4rem;
   color: #ffffff;
 }
 .home-sidelinks span {
@@ -2036,7 +2036,7 @@ html.no-csstransitions .home-content__main {
   }
 
   .home-sidelinks a {
-    padding: 2.1rem 12rem 2.1rem 4rem;
+    padding: 1rem 12rem 1rem 4rem;
   }
 }
 @media only screen and (max-width: 1200px) {
@@ -2061,7 +2061,7 @@ html.no-csstransitions .home-content__main {
   }
 
   .home-sidelinks a {
-    padding: 1.8rem 6rem 1.8rem 4rem;
+    padding: 1rem 6rem 1rem 4rem;
   }
 }
 @media only screen and (max-width: 1000px) {
